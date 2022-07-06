@@ -1,9 +1,9 @@
 {
   "main": {
-    "name":"Demo Research & Development Project",
-    "description":"This is a demo page for website",
+    "name":"Maersk",
+    "description":"Scalable Delivery Program",
     "image":"profilepic.jpg",
-    "bio":"This is Research & Development Project for showing demo of the web page. Its highly restricted page",
+    "bio":"SVD Team",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -50,27 +50,27 @@
     "education":[
       {
         "school":"SVD Project",
-        "degree":"Deploymennt of Research 1",
+        "degree":"Dashboard 1",
         "graduated":"Jan 2022 - Apr 2022",
         "description":"This is where we faced this challenge and deployed Y to overcome it"
       },
       {
         "school":"SVD Project 2",
-        "degree":"Deploymment of Research 2",
+        "degree":"Dashboard 2",
         "graduated":"Sept 2021 - Dec 2022",
-        "description":"Research 2 was fit for this environment, due to A, B, C reasons"
+        "description":"Dashboard 2 was fit for this environment, due to A, B, C reasons"
       }
     ],
     "work":[
       {
-        "company":"Auto Research",
-        "title":"auto researching",
+        "company":"SVD Project 3",
+        "title":"Dashboard 3",
         "years":"March 2018",
         "description":"Some random text which is in context, not like this one"
       },
       {
-        "company":"Dev Project",
-        "title":"awesome subtitle",
+        "company":"SVD Project 4",
+        "title":"Dashboard 4",
         "years":"March 2017 - February 2018",
         "description":"Something was done here, did not remember whats"
       }
