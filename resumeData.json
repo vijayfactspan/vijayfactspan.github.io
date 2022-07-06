@@ -49,15 +49,15 @@
     "skillmessage":"Our skills",
     "education":[
       {
-        "school":"Research and Development of Marylin",
+        "school":"SVD Project",
         "degree":"Deploymennt of Research 1",
-        "graduated":"April 2017",
+        "graduated":"Jan 2022 - Apr 2022",
         "description":"This is where we faced this challenge and deployed Y to overcome it"
       },
       {
-        "school":"Research Center for Hollullu",
+        "school":"SVD Project 2",
         "degree":"Deploymment of Research 2",
-        "graduated":"March 2013",
+        "graduated":"Sept 2021 - Dec 2022",
         "description":"Research 2 was fit for this environment, due to A, B, C reasons"
       }
     ],
