@@ -62,7 +62,7 @@ header .banner-text h1 {
    margin: 0 auto 18px auto;
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
+   font: 30px/1.9em 'librebaskerville-regular', serif;
    color: #ddd;
    margin: 0 auto;
    width: 70%;
@@ -125,7 +125,7 @@ header .scrolldown a:hover { color: #0762f9; }
 
 /* nav-wrap */
 #nav-wrap {
-   font: 12px 'opensans-bold', sans-serif;
+   font: 16px 'opensans-bold', sans-serif;
    width: 100%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
@@ -424,7 +424,14 @@ ul#nav li.current a { color: #fe6928; }
    margin-bottom: 48px;
    color: #95A3A3;
 }
-
+.particles-bg-canvas-self{
+   background: #34c3eb;
+ }
+ #home{
+   /* background: #34c3eb; */
+   background-image: url("../images/maersk_bg.jpg");
+   background-repeat: round;
+ }
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
