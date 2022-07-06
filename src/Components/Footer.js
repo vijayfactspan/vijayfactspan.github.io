@@ -17,7 +17,7 @@ class Footer extends Component {
 
     return (
       <footer>
-        <div className="row">
+        {/* <div className="row">
           <Fade bottom>
             <div className="twelve columns">
               <ul className="social-links">{networks}</ul>
@@ -33,7 +33,7 @@ class Footer extends Component {
               <i className="icon-up-open"></i>
             </a>
           </div>
-        </div>
+        </div> */}
       </footer>
     );
   }

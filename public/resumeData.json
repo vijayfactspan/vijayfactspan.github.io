@@ -1,9 +1,9 @@
 {
   "main": {
-    "name":"Demo Research & Development Project",
-    "description":"This is a demo page for website",
+    "name":"Maersk",
+    "description":"Scalable Delivery Program",
     "image":"profilepic.jpg",
-    "bio":"This is Research & Development Project for showing demo of the web page. Its highly restricted page",
+    "bio":"SVD Team",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -49,28 +49,28 @@
     "skillmessage":"Our skills",
     "education":[
       {
-        "school":"University of Marylin",
-        "degree":"Deploymennt of Research 1",
-        "graduated":"April 2017",
+        "school":"SVD Project",
+        "degree":"Dashboard 1",
+        "graduated":"Jan 2022 - Apr 2022",
         "description":"This is where we faced this challenge and deployed Y to overcome it"
       },
       {
-        "school":"Medical College",
-        "degree":"Deploymment of Research 2",
-        "graduated":"March 2013",
-        "description":"Research 2 was fit for this environment, due to A, B, C reasons"
+        "school":"SVD Project 2",
+        "degree":"Dashboard 2",
+        "graduated":"Sept 2021 - Dec 2022",
+        "description":"Dashboard 2 was fit for this environment, due to A, B, C reasons"
       }
     ],
     "work":[
       {
-        "company":"Auto Research",
-        "title":"auto researching",
+        "company":"SVD Project 3",
+        "title":"Dashboard 3",
         "years":"March 2018",
         "description":"Some random text which is in context, not like this one"
       },
       {
-        "company":"Dev Project",
-        "title":"awesome subtitle",
+        "company":"SVD Project 4",
+        "title":"Dashboard 4",
         "years":"March 2017 - February 2018",
         "description":"Something was done here, did not remember whats"
       }
@@ -112,73 +112,85 @@
         "title":"Research 1",
         "category":"Research shows that a human being gets hungry after every -8 hoours",
         "image":"01.jpg",
-        "url":"https://www.google.com"
+        "url":"https://www.google.com",
+        "name" : "John Doe XII"
       },
       {
         "title":"Research 2",
         "category":"This was a demo research done independently",
         "image":"02.jpg",
-        "url":"http://www.factspan.com"
+        "url":"http://www.factspan.com",
+        "name" : "John Doe XI"
       },
       {
         "title":"Research 3",
         "category":"Website I built for a demo purpose",
         "image":"03.jpg",
-        "url":"http://www.indianexpress.com"
+        "url":"http://www.indianexpress.com",
+        "name" : "John Doe X"
       },
       {
         "title":"Research 4",
         "category":"Read about us in this feature page",
         "image":"04.jpg",
-        "url":"http://www.facebook.como"
+        "url":"http://www.facebook.como",
+        "name" : "John Doe IX"
       },
       {
         "title":"Research 5",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"http://www.smirkspace.com",
+        "name" : "John Doe VIII"
       },
       {
         "title":"Research 6",
         "category":"Our history with analytics and website design",
         "image":"06.jpg",
-        "url":"https://www.factspan.com"
+        "url":"https://www.factspan.com",
+        "name" : "John Doe VII"
       },
       {
         "title":"Research 1",
         "category":"Research shows that a human being gets hungry after every -8 hoours",
         "image":"01.jpg",
-        "url":"https://www.google.com"
+        "url":"https://www.google.com",
+        "name" : "John Doe VI"
       },
       {
         "title":"Research 2",
         "category":"This was a demo research done independently",
         "image":"02.jpg",
-        "url":"http://www.factspan.com"
+        "url":"http://www.factspan.com",
+        "name" : "John Doe V"
       },
       {
         "title":"Research 3",
         "category":"Website I built for a demo purpose",
         "image":"03.jpg",
-        "url":"http://www.indianexpress.com"
+        "url":"http://www.indianexpress.com",
+        "name" : "John Doe IV"
       },
       {
         "title":"Research 4",
         "category":"Read about us in this feature page",
         "image":"04.jpg",
-        "url":"http://www.facebook.como"
+        "url":"http://www.facebook.como",
+        "name" : "John Doe III"
       },
       {
         "title":"Research 5",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"http://www.smirkspace.com",
+        "name" : "John Doe II"
       },
       {
         "title":"Research 6",
         "category":"Our history with analytics and website design",
         "image":"06.jpg",
-        "url":"https://www.factspan.com"
+        "url":"https://www.factspan.com",
+        "name" : "John Doe I"
       }
     ]
   }
