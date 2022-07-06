@@ -1,7 +1,8 @@
 {
   "main": {
-    "name":"Demo Research & Developmennt Project",
+    "name":"Demo Research & Development Project",
     "description":"This is a demo page for website",
+    "image":"profilepic.jpg",
     "bio":"This is Research & Development Project for showing demo of the web page. Its highly restricted page",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
@@ -45,33 +46,33 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Our skills",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
+        "school":"University of Marylin",
+        "degree":"Deploymennt of Research 1",
         "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"This is where we faced this challenge and deployed Y to overcome it"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
+        "school":"Medical College",
+        "degree":"Deploymment of Research 2",
         "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Research 2 was fit for this environment, due to A, B, C reasons"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Auto Research",
+        "title":"auto researching",
+        "years":"March 2018",
+        "description":"Some random text which is in context, not like this one"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
+        "company":"Dev Project",
+        "title":"awesome subtitle",
         "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Something was done here, did not remember whats"
       }
     ],
     "skills":[
