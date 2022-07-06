@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vijayfactspan.github.io/static/css/main.bab0b925.chunk.css",
+    "main.js": "/vijayfactspan.github.io/static/js/main.18dc58ed.chunk.js",
+    "main.js.map": "/vijayfactspan.github.io/static/js/main.18dc58ed.chunk.js.map",
+    "runtime-main.js": "/vijayfactspan.github.io/static/js/runtime-main.334ef6c3.js",
+    "runtime-main.js.map": "/vijayfactspan.github.io/static/js/runtime-main.334ef6c3.js.map",
+    "static/js/2.d29014ef.chunk.js": "/vijayfactspan.github.io/static/js/2.d29014ef.chunk.js",
+    "static/js/2.d29014ef.chunk.js.map": "/vijayfactspan.github.io/static/js/2.d29014ef.chunk.js.map",
+    "static/js/3.ddf3d856.chunk.js": "/vijayfactspan.github.io/static/js/3.ddf3d856.chunk.js",
+    "static/js/3.ddf3d856.chunk.js.map": "/vijayfactspan.github.io/static/js/3.ddf3d856.chunk.js.map",
+    "index.html": "/vijayfactspan.github.io/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/vijayfactspan.github.io/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.d29014ef.chunk.js.LICENSE.txt": "/vijayfactspan.github.io/static/js/2.d29014ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.334ef6c3.js",
+    "static/js/2.d29014ef.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.18dc58ed.chunk.js"
+  ]
+}
